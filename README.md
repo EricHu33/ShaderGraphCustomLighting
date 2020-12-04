@@ -8,5 +8,5 @@ With the include file we can get the porper shadow value to shade our surface.
 ![demo](https://user-images.githubusercontent.com/13420668/101153855-e95e5a80-365f-11eb-82fd-efc135c7c885.gif)
 
 
-[Jordan Stevens's lighting models post]: https://roystan.net/articles/outline-shader.html
+[Jordan Stevens's lighting models post]: https://www.jordanstevenstechart.com/lighting-models
 [shader demo]: https://github.com/ciro-unity/BotW-ToonShader/tree/master/Assets
